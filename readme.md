@@ -1,6 +1,6 @@
-# webpack-starter-basic
+# jc-webpack-starter
 
-A simple **webpack 4 starter project** for your basic web development needs.
+A simple **webpack 4 starter project** for basic web development needs.
 
 ## Table of Contents
 
