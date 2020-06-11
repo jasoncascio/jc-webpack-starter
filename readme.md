@@ -29,6 +29,24 @@ Just wanted a super simple webpack project.
 * Asset loading
 * Development server
 
+## Bundled Dependencies
+
+* webpack
+* webpack-cli
+* html-webpack-plugin
+* html-loader
+* webpack-dev-server
+* @babel/core
+* babel-loader
+* @babel/preset-env
+* file-loader
+* node-sass
+* style-loader
+* css-loader
+* sass-loader
+* mini-css-extract-plugin
+
+
 ## Requirements
 
 * [Node](https://nodejs.org) > 7.6
